@@ -1,6 +1,6 @@
 # Propuesta-Corajillo
 
-##Integrantes
+## Integrantes
  - Itzel Vazquez Orozco A01632620
  - Oswaldo Israel López Aviña A01633304
  - Luis Felipe Villaseñor Navarrete A01023976
